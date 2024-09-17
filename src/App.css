@@ -1,0 +1,10 @@
+.Contenedor {
+  text-align: center;
+  padding: 20px;
+}
+
+.StyleCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
